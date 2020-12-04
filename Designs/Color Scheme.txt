@@ -1,0 +1,3 @@
+default: #FFCBAC
+onclick: #F0B895
+activated: #E07636
